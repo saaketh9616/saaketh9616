@@ -17,12 +17,12 @@
 <p align="left">
 <a href="https://codepen.io/saaketh9616" target="blank"><img align="center" src="https://i.postimg.cc/j2b11Zgk/download.png" alt="saaketh9616" height="30" width="40" /></a>
 <a href="https://twitter.com/priyasaaketh" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round-line-color.svg" alt="priyasaaketh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priya saaketh madabhushi" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="priya saaketh madabhushi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priya-saaketh-madabhushi-2341691bb/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="priya saaketh madabhushi" height="30" width="40" /></a>
 <a href="https://instagram.com/saaketh_9616" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="saaketh_9616" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/saaketh_9616" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saaketh_9616" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saaketh89" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="saaketh89" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saaketh_9616" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="saaketh_9616" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saaketh89" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiskq6uHR_nlUGFkFmsdNAmSiR_1shiLz3fw&usqp=CAU" alt="saaketh89" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Saaketh_9616" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="saaketh_9616" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saaketh89/practice/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiskq6uHR_nlUGFkFmsdNAmSiR_1shiLz3fw&usqp=CAU" alt="saaketh89" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
