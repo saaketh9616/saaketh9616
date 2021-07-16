@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **exploring different domains**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and OOPS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate **with anyone who wants to learn something new or could teach me something new.**
 
