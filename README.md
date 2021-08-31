@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently **exploring different domains**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate **with anyone who wants to learn something new or could teach me something new.**
 
-- 🤝 I’m looking for help with **Dynamic Programming**
+- 🤝 I’m looking for help with **Angular JS**
 
 - 📫 How to reach me **Insta @Saaketh_9616**
 
