@@ -38,8 +38,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaketh9616&show_icons=true&locale=en&layout=compact"/></p>
 
-![enter image description here](https://github-readme-stats.vercel.app/api/top-langs?username=saaketh9616&show_icons=true&locale=en&layout=compact)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saaketh9616&theme=radical" alt="Midas847" mt="400" width="400" /></p></p>
+<br>
 
-
-![enter image description here](https://github-readme-stats.vercel.app/api?username=saaketh9616&theme=onedark&show_icons=true&locale=en)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saaketh9616&theme=onedark&show_icons=true&locale=en"/></p>
