@@ -1,5 +1,5 @@
 <h1 align="center">Hola , I'm Saaketh Madabhushi!👋</h1>
-<h3 align="center">4 ⭐ CodeChef(1814) || Newbie Codeforces (970)|| 5 ⭐ Hackerrank(C++,Python,Problem Solving,Java) || Competitive Coder || Web Development enthusiast || Second year student at VIT Vellore</h3>
+<h3 align="center">4 ⭐ CodeChef(1814) || Newbie Codeforces (1025)|| 5 ⭐ Hackerrank(C++,Python,Problem Solving,Java) || Competitive Coder || Web Development enthusiast || Second year student at VIT Vellore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaketh9616&label=Profile%20views&color=0e75b6&style=flat" alt="saaketh9616" /> </p>
 
